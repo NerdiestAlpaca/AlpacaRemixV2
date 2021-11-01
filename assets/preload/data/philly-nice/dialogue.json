@@ -1,0 +1,109 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "So tell me more about your friend, BF.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "reunion",
+			"text": "Oh man, where do I begin..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "awestruck",
+			"text": "...I think I'll let him tell you, actually."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Me? Oh I'm nothin' special. Just a guy who dreamt of sailing the seas... and fulfilled said dream!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Wow! That's amazing."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "nervous-smile",
+			"text": "...I'd kill to be able to travel more often but. Y'know, princess duties and all that."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "angry",
+			"expression": "annoyed",
+			"text": "Wait, BF.\\nYou hooked up with the king's daughter?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Oh, you scallywag."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "awestruck",
+			"text": "Haha, I prefer not to really think of it like that..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "love",
+			"text": "She's just GF to me. Which is more than I ever could've asked for."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Awww, BF..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You two are..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Adorable?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "...I was gonna say something more along the lines of 'sickeningly sweet.'"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But what you said works too."
+		}
+	]
+}

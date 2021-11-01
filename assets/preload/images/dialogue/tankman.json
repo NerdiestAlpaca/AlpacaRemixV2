@@ -1,0 +1,24 @@
+{
+	"position": [
+		20,
+		50
+	],
+	"dialogue_pos": "left",
+	"scale": 1.15,
+	"image": "Tankman_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				5
+			],
+			"loop_offsets": [
+				0,
+				20
+			],
+			"anim": "talk",
+			"idle_name": "TANKMAN0",
+			"loop_name": "TANKMAN LOOP"
+		}
+	]
+}

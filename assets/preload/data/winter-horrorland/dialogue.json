@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"expression": "shocked",
+			"text": "W-what's going on?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "Where's Girlfriend??",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "serious",
+			"text": "BF, I need to talk to you. It's... somewhat urgent.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "monster"
+		},
+		{
+			"expression": "confused",
+			"text": "Baphomet? What're you doing here? And where's GF?",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "bf"
+		},
+		{
+			"expression": "serious",
+			"text": "She's fine, I promise. I'd never do anything to hurt her. I just needed her to be elsewhere.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "monster"
+		},
+		{
+			"expression": "serious",
+			"text": "Speaking of GF, I need you to promise me something.",
+			"boxState": "normal",
+			"speed": 0.065,
+			"portrait": "monster"
+		},
+		{
+			"speed": 0.1,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Oooookay?"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "monster",
+			"boxState": "normal",
+			"expression": "serious",
+			"text": "If there's ever any odd magical occurences and she seems to be the cause of them..."
+		},
+		{
+			"speed": 0.055,
+			"portrait": "monster",
+			"boxState": "normal",
+			"expression": "serious",
+			"text": "I need you to promise to never tell her parents about them"
+		},
+		{
+			"speed": 0.075,
+			"portrait": "monster",
+			"boxState": "normal",
+			"expression": "serious",
+			"text": "ESPECIALLY not if it seems like dark magic."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "awestruck",
+			"text": "Got it."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "monster",
+			"boxState": "normal",
+			"expression": "serious",
+			"text": "Good."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...hey you wanna do a song or something?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "monster",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Now is no time for a song, BF!"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "monster",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...ok fine maybe just a quick one."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Nice."
+		}
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"expression": "confused",
+			"text": "So uh, kids, how'd you even manage to find this place? This doesn't seem like a good place for kids your age to be...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "Even I don't wanna be here."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spooky",
+			"boxState": "normal",
+			"expression": "victor",
+			"text": "We found it a couple Halloweens ago. Nobody was home, so now we play around here!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "awestruck",
+			"text": "Hm."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spooky",
+			"boxState": "normal",
+			"expression": "topsy",
+			"text": "Well, nobody was home except the ghosts."
+		},
+		{
+			"speed": 0.1,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "...the what."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "nervous-smile",
+			"text": "(I'm sure they're just playing pretend, BF.)"
+		}
+	]
+}

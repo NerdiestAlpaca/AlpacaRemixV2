@@ -1,0 +1,50 @@
+{
+	"position": [
+		-130,
+		-60
+	],
+	"dialogue_pos": "left",
+	"scale": 1,
+	"image": "Spooky_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				1
+			],
+			"loop_offsets": [
+				0,
+				1
+			],
+			"anim": "talk",
+			"idle_name": "SPOOKY KIDS0",
+			"loop_name": "SPOOKY KIDS LOOP"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "topsy",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "TOPSY0",
+			"loop_name": "TOPSY LOOP"
+		},
+		{
+			"loop_offsets": [
+				-80,
+				0
+			],
+			"anim": "victor",
+			"idle_offsets": [
+				-80,
+				0
+			],
+			"loop_name": "VICTOR LOOP",
+			"idle_name": "VICTOR0"
+		}
+	]
+}

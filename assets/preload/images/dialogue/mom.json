@@ -1,0 +1,63 @@
+{
+	"position": [
+		40,
+		-160
+	],
+	"dialogue_pos": "left",
+	"scale": 0.85,
+	"image": "Mom_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				1
+			],
+			"loop_offsets": [
+				0,
+				1
+			],
+			"anim": "talk",
+			"idle_name": "MOM0",
+			"loop_name": "MOM LOOP"
+		},
+		{
+			"idle_offsets": [
+				-9,
+				0
+			],
+			"anim": "excited",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "MOM EXCITED0",
+			"loop_name": "MOM EXCITED LOOP"
+		},
+		{
+			"idle_offsets": [
+				10,
+				0
+			],
+			"anim": "pissed",
+			"loop_offsets": [
+				10,
+				0
+			],
+			"idle_name": "MOM ANNOYED0",
+			"loop_name": "MOM ANNOYED LOOP"
+		},
+		{
+			"idle_offsets": [
+				0,
+				1
+			],
+			"loop_offsets": [
+				0,
+				1
+			],
+			"anim": "unhappy",
+			"idle_name": "MOM UNHAPPY0",
+			"loop_name": "MOM UNHAPPY LOOP"
+		}
+	]
+}

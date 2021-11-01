@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Monster_Dialogue.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MONSTER0000" x="0" y="0" width="706" height="916"/>
+	<SubTexture name="MONSTER0001" x="0" y="0" width="706" height="916"/>
+	<SubTexture name="MONSTER CREEPY0000" x="716" y="0" width="745" height="877"/>
+	<SubTexture name="MONSTER CREEPY0001" x="716" y="0" width="745" height="877"/>
+	<SubTexture name="MONSTER CREEPY LOOP0000" x="1471" y="0" width="734" height="879" frameX="-4" frameY="0" frameWidth="745" frameHeight="879"/>
+	<SubTexture name="MONSTER CREEPY LOOP0001" x="1471" y="0" width="734" height="879" frameX="-4" frameY="0" frameWidth="745" frameHeight="879"/>
+	<SubTexture name="MONSTER CREEPY LOOP0002" x="2215" y="0" width="744" height="873" frameX="-1" frameY="-6" frameWidth="745" frameHeight="879"/>
+	<SubTexture name="MONSTER CREEPY LOOP0003" x="2215" y="0" width="744" height="873" frameX="-1" frameY="-6" frameWidth="745" frameHeight="879"/>
+	<SubTexture name="MONSTER CREEPY LOOP0004" x="2969" y="0" width="745" height="877" frameX="0" frameY="-2" frameWidth="745" frameHeight="879"/>
+	<SubTexture name="MONSTER CREEPY LOOP0005" x="2969" y="0" width="745" height="877" frameX="0" frameY="-2" frameWidth="745" frameHeight="879"/>
+	<SubTexture name="MONSTER EVIL0000" x="0" y="926" width="720" height="929"/>
+	<SubTexture name="MONSTER EVIL0001" x="0" y="926" width="720" height="929"/>
+	<SubTexture name="MONSTER EVIL LOOP0000" x="730" y="926" width="725" height="926" frameX="0" frameY="-3" frameWidth="725" frameHeight="929"/>
+	<SubTexture name="MONSTER EVIL LOOP0001" x="730" y="926" width="725" height="926" frameX="0" frameY="-3" frameWidth="725" frameHeight="929"/>
+	<SubTexture name="MONSTER EVIL LOOP0002" x="1465" y="926" width="718" height="929" frameX="0" frameY="0" frameWidth="725" frameHeight="929"/>
+	<SubTexture name="MONSTER EVIL LOOP0003" x="1465" y="926" width="718" height="929" frameX="0" frameY="0" frameWidth="725" frameHeight="929"/>
+	<SubTexture name="MONSTER EVIL LOOP0004" x="0" y="926" width="720" height="929"/>
+	<SubTexture name="MONSTER EVIL LOOP0005" x="0" y="926" width="720" height="929"/>
+	<SubTexture name="MONSTER LAUGH0000" x="2193" y="926" width="701" height="891"/>
+	<SubTexture name="MONSTER LAUGH0001" x="2193" y="926" width="701" height="891"/>
+	<SubTexture name="MONSTER LAUGH LOOP0000" x="2904" y="926" width="664" height="900" frameX="-29" frameY="0" frameWidth="701" frameHeight="900"/>
+	<SubTexture name="MONSTER LAUGH LOOP0001" x="2904" y="926" width="664" height="900" frameX="-29" frameY="0" frameWidth="701" frameHeight="900"/>
+	<SubTexture name="MONSTER LAUGH LOOP0002" x="0" y="1865" width="676" height="889" frameX="-20" frameY="-11" frameWidth="701" frameHeight="900"/>
+	<SubTexture name="MONSTER LAUGH LOOP0003" x="0" y="1865" width="676" height="889" frameX="-20" frameY="-11" frameWidth="701" frameHeight="900"/>
+	<SubTexture name="MONSTER LAUGH LOOP0004" x="2193" y="926" width="701" height="891" frameX="0" frameY="-9" frameWidth="701" frameHeight="891"/>
+	<SubTexture name="MONSTER LAUGH LOOP0005" x="2193" y="926" width="701" height="891" frameX="0" frameY="-9" frameWidth="701" frameHeight="891"/>
+	<SubTexture name="MONSTER LOOP0000" x="686" y="1865" width="781" height="878" frameX="-8" frameY="-38" frameWidth="789" frameHeight="916"/>
+	<SubTexture name="MONSTER LOOP0001" x="686" y="1865" width="781" height="878" frameX="-8" frameY="-38" frameWidth="789" frameHeight="916"/>
+	<SubTexture name="MONSTER LOOP0002" x="1477" y="1865" width="702" height="899" frameX="0" frameY="-17" frameWidth="789" frameHeight="916"/>
+	<SubTexture name="MONSTER LOOP0003" x="1477" y="1865" width="702" height="899" frameX="0" frameY="-17" frameWidth="789" frameHeight="916"/>
+	<SubTexture name="MONSTER LOOP0004" x="0" y="0" width="706" height="916" frameX="-19" frameY="0" frameWidth="706" frameHeight="916"/>
+	<SubTexture name="MONSTER LOOP0005" x="0" y="0" width="706" height="916" frameX="-19" frameY="0" frameWidth="706" frameHeight="916"/>
+	<SubTexture name="MONSTER MAD0000" x="2189" y="1865" width="815" height="779"/>
+	<SubTexture name="MONSTER MAD0001" x="2189" y="1865" width="815" height="779"/>
+	<SubTexture name="MONSTER MAD LOOP0000" x="3014" y="1865" width="796" height="778" frameX="-4" frameY="-24" frameWidth="815" frameHeight="803"/>
+	<SubTexture name="MONSTER MAD LOOP0001" x="3014" y="1865" width="796" height="778" frameX="-4" frameY="-24" frameWidth="815" frameHeight="803"/>
+	<SubTexture name="MONSTER MAD LOOP0002" x="0" y="2774" width="784" height="801" frameX="-7" frameY="0" frameWidth="815" frameHeight="803"/>
+	<SubTexture name="MONSTER MAD LOOP0003" x="0" y="2774" width="784" height="801" frameX="-7" frameY="0" frameWidth="815" frameHeight="803"/>
+	<SubTexture name="MONSTER MAD LOOP0004" x="2189" y="1865" width="815" height="779" frameX="0" frameY="-24" frameWidth="815" frameHeight="779"/>
+	<SubTexture name="MONSTER MAD LOOP0005" x="2189" y="1865" width="815" height="779" frameX="0" frameY="-24" frameWidth="815" frameHeight="779"/>
+	<SubTexture name="MONSTER SERIOUS0000" x="794" y="2774" width="698" height="916"/>
+	<SubTexture name="MONSTER SERIOUS0001" x="794" y="2774" width="698" height="916"/>
+	<SubTexture name="MONSTER SERIOUS LOOP0000" x="1502" y="2774" width="700" height="878" frameX="-8" frameY="-38" frameWidth="717" frameHeight="916"/>
+	<SubTexture name="MONSTER SERIOUS LOOP0001" x="1502" y="2774" width="700" height="878" frameX="-8" frameY="-38" frameWidth="717" frameHeight="916"/>
+	<SubTexture name="MONSTER SERIOUS LOOP0002" x="2212" y="2774" width="702" height="899" frameX="0" frameY="-17" frameWidth="717" frameHeight="916"/>
+	<SubTexture name="MONSTER SERIOUS LOOP0003" x="2212" y="2774" width="702" height="899" frameX="0" frameY="-17" frameWidth="717" frameHeight="916"/>
+	<SubTexture name="MONSTER SERIOUS LOOP0004" x="794" y="2774" width="698" height="916" frameX="-19" frameY="0" frameWidth="698" frameHeight="916"/>
+	<SubTexture name="MONSTER SERIOUS LOOP0005" x="794" y="2774" width="698" height="916" frameX="-19" frameY="0" frameWidth="698" frameHeight="916"/>
+</TextureAtlas>

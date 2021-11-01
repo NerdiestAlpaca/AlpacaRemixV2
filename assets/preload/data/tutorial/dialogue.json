@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "...And that's how I won that tournament!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "excited",
+			"text": "Wow! That's really awesome, BF.",
+			"boxState": "normal",
+			"speed": 0.06,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "So, you wanna practice some singing before your concert tonight?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "Concert? I don't remember any...",
+			"boxState": "normal",
+			"speed": 0.065,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "SHIT YOU'RE RIGHT I DO HAVE A GIG TONIGHT",
+			"boxState": "angry",
+			"speed": 0.04,
+			"portrait": "bf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "And it's with your dad..."
+		},
+		{
+			"expression": "nervous-smile",
+			"text": "Oh, sweetheart...",
+			"boxState": "normal",
+			"speed": 0.07,
+			"portrait": "gf"
+		}
+	]
+}

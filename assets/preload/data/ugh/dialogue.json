@@ -1,0 +1,130 @@
+{
+	"dialogue": [
+		{
+			"expression": "annoyed",
+			"text": "So first we go up against an angry, vengeful spirit.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.04
+		},
+		{
+			"expression": "annoyed",
+			"text": "And now we're going up against a renegade knight? As if our lives weren't put into enough danger last time.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.035
+		},
+		{
+			"expression": "confused",
+			"text": "C'mon, you know this is important, BF...",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "nervous-smile",
+			"text": "Cheer up a little. He said he would pay you for this one, didn't he?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "awestruck",
+			"text": "Oh yeah. He did say that, didn't he...",
+			"boxState": "normal",
+			"speed": 0.065,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "That's the spirit. Oh, I think the guy dad sent us to talk to is--",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "awestruck",
+			"text": "Right there?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "nervous-smile",
+			"text": "Yeah.",
+			"boxState": "normal",
+			"speed": 0.085,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "What do YOU punks want?",
+			"boxState": "normal",
+			"portrait": "tankman",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "We're here on orders from the king. He sent us to bring you to him for... something.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "(He always keeps the details to himself, eh...)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Well go away, kid. I have NOTHING to discuss with that sack of crap.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "tankman"
+		},
+		{
+			"expression": "pissed",
+			"text": "Don't talk about my dad that way, mister.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh great, the princess. Don't you have duties of your own to attend to?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "tankman"
+		},
+		{
+			"expression": "annoyed",
+			"text": "She was chosen as my escort!",
+			"boxState": "normal",
+			"speed": 0.06,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Heh, kingy can't trust you on your own, can he?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "tankman"
+		},
+		{
+			"expression": "pissed",
+			"text": "Th-that's not it at all! Look, just come back with us and everything will be alright.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Not gonna happen!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "tankman"
+		}
+	]
+}

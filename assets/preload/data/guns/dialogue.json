@@ -1,0 +1,25 @@
+{
+	"dialogue": [
+		{
+			"expression": "serious",
+			"text": "So are you comin' with us or not.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tankman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Buzz off, kid, I already said no!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "...It was a rhetorical question. You don't really have a choice, y'know."
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"expression": "confused",
+			"text": "Hey GF, did you hear something just now?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.0499999999999996
+		},
+		{
+			"expression": "awestruck",
+			"text": "Aside from my singing, I mean.\\nI dunno what it was but...\\nThere was SOMETHING distracting me.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "Now that you mention it... I did hear something like... footsteps?",
+			"boxState": "normal",
+			"speed": 0.055,
+			"portrait": "gf"
+		},
+		{
+			"expression": "shocked",
+			"text": "Wait what.",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "bf"
+		}
+	]
+}

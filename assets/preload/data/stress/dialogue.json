@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"expression": "serious",
+			"text": "Why do you hate the king so much anyway?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tankman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I don't even remember at this point, but I do remember he's a jerk."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "He didn't apologize to you for... whatever it was?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tankman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I dunno! I was too busy being angry at him to notice any apology."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "...sounds like you're the jerk here, bud."
+		},
+		{
+			"speed": 0.025,
+			"portrait": "tankman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Piss off."
+		}
+	]
+}

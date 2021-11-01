@@ -1,0 +1,50 @@
+{
+	"position": [
+		-130,
+		-60
+	],
+	"dialogue_pos": "left",
+	"scale": 1,
+	"image": "Dad_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				-63,
+				1
+			],
+			"loop_offsets": [
+				0,
+				1
+			],
+			"anim": "talk",
+			"idle_name": "DAD0",
+			"loop_name": "DAD LOOP"
+		},
+		{
+			"idle_offsets": [
+				-60,
+				-5
+			],
+			"anim": "pissed",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "DAD TICKED0",
+			"loop_name": "DAD TICKED LOOP"
+		},
+		{
+			"loop_offsets": [
+				-80,
+				0
+			],
+			"anim": "sorry",
+			"idle_offsets": [
+				-80,
+				0
+			],
+			"loop_name": "DAD SORRY LOOP",
+			"idle_name": "DAD SORRY0"
+		}
+	]
+}

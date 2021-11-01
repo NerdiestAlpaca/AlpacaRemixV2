@@ -1,0 +1,57 @@
+{
+	"storyName": "The Cavalry",
+	"hideFreeplay": false,
+	"weekBackground": "tank",
+	"weekBefore": "week6",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"tankman",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Ugh",
+			"tankman",
+			[
+				255,
+				175,
+				53
+			]
+		],
+		[
+			"Guns",
+			"tankman",
+			[
+				255,
+				175,
+				53
+			]
+		],
+		[
+			"Stress",
+			"tankman",
+			[
+				255,
+				175,
+				53
+			]
+		],
+		[
+			"Armor",
+			"tankman",
+			[
+				255,
+				175,
+				53
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Chapter 7"
+}

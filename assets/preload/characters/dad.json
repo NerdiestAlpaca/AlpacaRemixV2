@@ -2,8 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				-9,
-				10
+				1,
+				32
 			],
 			"loop": false,
 			"anim": "singLEFT",
@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				0,
-				-30
+				-71,
+				-34
 			],
 			"loop": false,
 			"anim": "singDOWN",
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				-6,
-				50
+				-106,
+				47
 			],
 			"loop": false,
 			"anim": "singUP",
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				0,
-				27
+				-100,
+				30
 			],
 			"loop": false,
 			"anim": "singRIGHT",
@@ -57,24 +57,8 @@
 		},
 		{
 			"offsets": [
-				0,
-				0
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "idle-loop",
-			"indices": [
-				10,
-				11,
-				12,
-				12
-			],
-			"name": "Dad idle dance"
-		},
-		{
-			"offsets": [
-				-9,
-				10
+				1,
+				32
 			],
 			"loop": true,
 			"fps": 24,
@@ -89,8 +73,8 @@
 		},
 		{
 			"offsets": [
-				0,
-				27
+				-100,
+				30
 			],
 			"loop": true,
 			"fps": 24,
@@ -104,48 +88,37 @@
 			"name": "Dad Sing Note RIGHT"
 		},
 		{
-			"offsets": [
-				-6,
-				50
-			],
 			"loop": true,
-			"fps": 24,
-			"anim": "singUP-loop",
-			"indices": [
-				56,
-				57,
-				58,
-				59
-			],
-			"name": "Dad Sing Note UP"
-		},
-		{
-			"loop": false,
 			"offsets": [
-				140,
-				-100
+				-106,
+				47
 			],
-			"anim": "hey",
+			"anim": "singUP-loop",
 			"fps": 24,
-			"name": "WhatYouKnowAboutRollingDownInTheDeep",
-			"indices": []
+			"name": "Dad Sing Note UP",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			]
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/DADDY_DEAREST",
 	"position": [
-		0,
-		0
+		-210,
+		-20
 	],
 	"healthicon": "dad",
 	"flip_x": false,
 	"healthbar_colors": [
-		175,
-		102,
-		206
+		60,
+		65,
+		126
 	],
 	"camera_position": [
-		0,
+		60,
 		0
 	],
 	"sing_duration": 6.1,

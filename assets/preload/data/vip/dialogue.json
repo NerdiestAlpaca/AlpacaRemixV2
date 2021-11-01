@@ -1,0 +1,158 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "So uh, hey. If you don't mind me asking.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "Why is it that the king needs someone to do the kind of jobs he's giving me, anyway?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "BF!",
+			"boxState": "angry",
+			"speed": 0.1,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "No no, dear, it's fine. It's about time I told you about your father's past, too.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mom"
+		},
+		{
+			"expression": "talk",
+			"text": "You see, as a young prince, he was... quite brash.",
+			"boxState": "normal",
+			"speed": 0.065,
+			"portrait": "mom"
+		},
+		{
+			"expression": "unhappy",
+			"text": "He got into a lot of arguments with people from outside and even within the kingdom.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mom"
+		},
+		{
+			"expression": "unhappy",
+			"text": "Some extremists even wanted him cast out, but his parents refused.",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "mom"
+		},
+		{
+			"expression": "confused",
+			"text": "So what happened?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "excited",
+			"text": "I happened!",
+			"boxState": "normal",
+			"speed": 0.035,
+			"portrait": "mom"
+		},
+		{
+			"expression": "talk",
+			"text": "After he met me, he slowly started to change his ways.",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "mom"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mom",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "He ended up apologizing to some of the people he had offended."
+		},
+		{
+			"speed": 0.045,
+			"portrait": "mom",
+			"boxState": "normal",
+			"expression": "unhappy",
+			"text": "...unfortunately, not all of them. And then there's the fact that not even all of the people he DID apologize to accepted it..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mom",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That's probably why he needs someone like you, BF. To make amends where he can't."
+		},
+		{
+			"speed": 0.09,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "awestruck",
+			"text": "Huh."
+		},
+		{
+			"speed": 0.035,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "And here I thought he was just sending me on missions because he was too lazy to do these things himself."
+		},
+		{
+			"speed": 0.065,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "I don't entirely blame you for thinking that. I had no idea my dad was like that before, he always seemed like such a capable ruler..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well I guess I'll take those missions a little more seriously from now on."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mom",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Good to hear."
+		},
+		{
+			"speed": 0.2,
+			"portrait": "mom",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "mom",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "...another song?"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "Can we get off the damn limo first."
+		},
+		{
+			"speed": 0.01,
+			"portrait": "mom",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lol no"
+		}
+	]
+}

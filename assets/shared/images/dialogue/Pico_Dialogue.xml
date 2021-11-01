@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pico_Dialogue.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PICO0000" x="0" y="0" width="639" height="599"/>
+	<SubTexture name="PICO0001" x="0" y="0" width="639" height="599"/>
+	<SubTexture name="PICO LOOP0000" x="649" y="0" width="633" height="611" frameX="0" frameY="0" frameWidth="668" frameHeight="611"/>
+	<SubTexture name="PICO LOOP0001" x="649" y="0" width="633" height="611" frameX="0" frameY="0" frameWidth="668" frameHeight="611"/>
+	<SubTexture name="PICO LOOP0002" x="1292" y="0" width="637" height="601" frameX="-19" frameY="-9" frameWidth="668" frameHeight="611"/>
+	<SubTexture name="PICO LOOP0003" x="1292" y="0" width="637" height="601" frameX="-19" frameY="-9" frameWidth="668" frameHeight="611"/>
+	<SubTexture name="PICO LOOP0004" x="1939" y="0" width="638" height="599" frameX="-30" frameY="-11" frameWidth="668" frameHeight="611"/>
+	<SubTexture name="PICO LOOP0005" x="1939" y="0" width="638" height="599" frameX="-30" frameY="-11" frameWidth="668" frameHeight="611"/>
+	<SubTexture name="PICO NOT SMILE0000" x="0" y="621" width="633" height="611" frameX="0" frameY="0" frameWidth="668" frameHeight="611"/>
+	<SubTexture name="PICO NOT SMILE0001" x="0" y="621" width="633" height="611" frameX="0" frameY="0" frameWidth="668" frameHeight="611"/>
+	<SubTexture name="PICO NOT SMILE LOOP0000" x="2587" y="0" width="638" height="599" frameX="-30" frameY="-11" frameWidth="668" frameHeight="611"/>
+	<SubTexture name="PICO NOT SMILE LOOP0001" x="2587" y="0" width="638" height="599" frameX="-30" frameY="-11" frameWidth="668" frameHeight="611"/>
+	<SubTexture name="PICO NOT SMILE LOOP0002" x="3235" y="0" width="637" height="601" frameX="-19" frameY="-9" frameWidth="668" frameHeight="611"/>
+	<SubTexture name="PICO NOT SMILE LOOP0003" x="3235" y="0" width="637" height="601" frameX="-19" frameY="-9" frameWidth="668" frameHeight="611"/>
+	<SubTexture name="PICO NOT SMILE LOOP0004" x="0" y="621" width="633" height="611" frameX="0" frameY="0" frameWidth="668" frameHeight="611"/>
+	<SubTexture name="PICO NOT SMILE LOOP0005" x="0" y="621" width="633" height="611" frameX="0" frameY="0" frameWidth="668" frameHeight="611"/>
+	<SubTexture name="PICO READY0000" x="1659" y="621" width="495" height="737" frameX="0" frameY="0" frameWidth="504" frameHeight="737"/>
+	<SubTexture name="PICO READY0001" x="1659" y="621" width="495" height="737" frameX="0" frameY="0" frameWidth="504" frameHeight="737"/>
+	<SubTexture name="PICO READY LOOP0000" x="643" y="621" width="497" height="706" frameX="0" frameY="-30" frameWidth="504" frameHeight="737"/>
+	<SubTexture name="PICO READY LOOP0001" x="643" y="621" width="497" height="706" frameX="0" frameY="-30" frameWidth="504" frameHeight="737"/>
+	<SubTexture name="PICO READY LOOP0002" x="1150" y="621" width="499" height="719" frameX="-1" frameY="-18" frameWidth="504" frameHeight="737"/>
+	<SubTexture name="PICO READY LOOP0003" x="1150" y="621" width="499" height="719" frameX="-1" frameY="-18" frameWidth="504" frameHeight="737"/>
+	<SubTexture name="PICO READY LOOP0004" x="1659" y="621" width="495" height="737" frameX="-9" frameY="0" frameWidth="504" frameHeight="737"/>
+	<SubTexture name="PICO READY LOOP0005" x="1659" y="621" width="495" height="737" frameX="-9" frameY="0" frameWidth="504" frameHeight="737"/>
+</TextureAtlas>

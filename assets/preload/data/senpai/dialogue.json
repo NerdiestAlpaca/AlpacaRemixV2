@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "And who might you be?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "senpai"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "serious",
+			"text": "I'm BF. We're here on orders from the king."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "serious",
+			"text": "There's a robot around here that needs to be dismantled. Would you happen to know where that is?"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "senpai",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...No robots here. You have the wrong place."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "You sound unsure."
+		},
+		{
+			"speed": 0.065,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "(He sounds like he's hiding something.)"
+		}
+	]
+}

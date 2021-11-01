@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mom_Dialogue.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MOM0000" x="0" y="0" width="484" height="951"/>
+	<SubTexture name="MOM0001" x="0" y="0" width="484" height="951"/>
+	<SubTexture name="MOM ANNOYED0000" x="494" y="0" width="564" height="941"/>
+	<SubTexture name="MOM ANNOYED0001" x="494" y="0" width="564" height="941"/>
+	<SubTexture name="MOM ANNOYED LOOP0000" x="1068" y="0" width="580" height="942" frameX="0" frameY="0" frameWidth="580" frameHeight="943"/>
+	<SubTexture name="MOM ANNOYED LOOP0001" x="1068" y="0" width="580" height="942" frameX="0" frameY="0" frameWidth="580" frameHeight="943"/>
+	<SubTexture name="MOM ANNOYED LOOP0002" x="1658" y="0" width="564" height="942" frameX="-3" frameY="-1" frameWidth="580" frameHeight="943"/>
+	<SubTexture name="MOM ANNOYED LOOP0003" x="1658" y="0" width="564" height="942" frameX="-3" frameY="-1" frameWidth="580" frameHeight="943"/>
+	<SubTexture name="MOM ANNOYED LOOP0004" x="2232" y="0" width="564" height="941" frameX="-1" frameY="-2" frameWidth="580" frameHeight="943"/>
+	<SubTexture name="MOM ANNOYED LOOP0005" x="2232" y="0" width="564" height="941" frameX="-1" frameY="-2" frameWidth="580" frameHeight="943"/>
+	<SubTexture name="MOM EXCITED0000" x="2806" y="0" width="548" height="860"/>
+	<SubTexture name="MOM EXCITED0001" x="2806" y="0" width="548" height="860"/>
+	<SubTexture name="MOM EXCITED LOOP0000" x="3364" y="0" width="563" height="848" frameX="0" frameY="-13" frameWidth="564" frameHeight="861"/>
+	<SubTexture name="MOM EXCITED LOOP0001" x="3364" y="0" width="563" height="848" frameX="0" frameY="-13" frameWidth="564" frameHeight="861"/>
+	<SubTexture name="MOM EXCITED LOOP0002" x="0" y="961" width="554" height="855" frameX="-10" frameY="-5" frameWidth="564" frameHeight="861"/>
+	<SubTexture name="MOM EXCITED LOOP0003" x="0" y="961" width="554" height="855" frameX="-10" frameY="-5" frameWidth="564" frameHeight="861"/>
+	<SubTexture name="MOM EXCITED LOOP0004" x="564" y="961" width="548" height="860" frameX="-16" frameY="0" frameWidth="564" frameHeight="861"/>
+	<SubTexture name="MOM EXCITED LOOP0005" x="564" y="961" width="548" height="860" frameX="-16" frameY="0" frameWidth="564" frameHeight="861"/>
+	<SubTexture name="MOM LOOP0000" x="1122" y="961" width="482" height="946" frameX="-7" frameY="-6" frameWidth="489" frameHeight="952"/>
+	<SubTexture name="MOM LOOP0001" x="1122" y="961" width="482" height="946" frameX="-7" frameY="-6" frameWidth="489" frameHeight="952"/>
+	<SubTexture name="MOM LOOP0002" x="1614" y="961" width="484" height="951" frameX="-2" frameY="0" frameWidth="489" frameHeight="952"/>
+	<SubTexture name="MOM LOOP0003" x="1614" y="961" width="484" height="951" frameX="-2" frameY="0" frameWidth="489" frameHeight="952"/>
+	<SubTexture name="MOM LOOP0004" x="0" y="0" width="484" height="951"/>
+	<SubTexture name="MOM LOOP0005" x="0" y="0" width="484" height="951"/>
+	<SubTexture name="MOM UNHAPPY0000" x="3094" y="961" width="484" height="951" frameX="0" frameY="0" frameWidth="489" frameHeight="952"/>
+	<SubTexture name="MOM UNHAPPY0001" x="3094" y="961" width="484" height="951" frameX="0" frameY="0" frameWidth="489" frameHeight="952"/>
+	<SubTexture name="MOM UNHAPPY LOOP0000" x="2108" y="961" width="482" height="946" frameX="-7" frameY="-6" frameWidth="489" frameHeight="952"/>
+	<SubTexture name="MOM UNHAPPY LOOP0001" x="2108" y="961" width="482" height="946" frameX="-7" frameY="-6" frameWidth="489" frameHeight="952"/>
+	<SubTexture name="MOM UNHAPPY LOOP0002" x="2600" y="961" width="484" height="951" frameX="-2" frameY="0" frameWidth="489" frameHeight="952"/>
+	<SubTexture name="MOM UNHAPPY LOOP0003" x="2600" y="961" width="484" height="951" frameX="-2" frameY="0" frameWidth="489" frameHeight="952"/>
+	<SubTexture name="MOM UNHAPPY LOOP0004" x="3094" y="961" width="484" height="951" frameX="0" frameY="0" frameWidth="489" frameHeight="952"/>
+	<SubTexture name="MOM UNHAPPY LOOP0005" x="3094" y="961" width="484" height="951" frameX="0" frameY="0" frameWidth="489" frameHeight="952"/>
+</TextureAtlas>

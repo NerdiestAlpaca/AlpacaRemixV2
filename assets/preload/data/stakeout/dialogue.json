@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"expression": "confused",
+			"text": "So this is the place your Dad wanted us to go?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "I think so...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "There doesn't seem to be much of anything here...",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Killer acoustics though! Seems like a great place to get some rehearsal in.",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "Oh, you...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Alright, we can do a little rehearsal, but we have to keep an eye out for...",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "Whatever it is we're here for.",
+			"boxState": "normal",
+			"speed": 0.07,
+			"portrait": "gf"
+		}
+	]
+}

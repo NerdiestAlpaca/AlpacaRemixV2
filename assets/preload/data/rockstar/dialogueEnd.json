@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Later that night..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "So, um. About that... discussion we were going to have?"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "sorry",
+			"text": "Hm? Oh no, I haven't the energy to do so anymore. And besides that..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You've proven that you're... respectable. And trustworthy."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "awestruck",
+			"text": "Really?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "awestruck",
+			"text": "(I proved that by singing?)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "nervous-smile",
+			"text": "(Music is really important to my dad.)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yes. So trustworthy, in fact, that I'm giving you a job to do."
+		},
+		{
+			"speed": 0.125,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "...wait what."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "(You're sure they're THAT trustworthy, dad?)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Girlfriend?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "What're you two talking about?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "sorry",
+			"text": "I'll tell you later."
+		}
+	]
+}

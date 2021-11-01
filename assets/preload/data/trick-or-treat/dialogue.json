@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "That was awesome! You're a great singer.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spooky"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Thank you, thank you! Ahaha..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "later that night..."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "(Sheesh, is our target ever gonna show up? I haven't seen even a single passerby.)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "(You gotta be patient, BF.)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "nervous-smile",
+			"text": "(How about I put on another song? There's one left on the CD the kids gave me earlier.)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spooky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, the last song is our favorite!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...well, if it's a favorite, then I see no reason not to sing it!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(Be sure to keep watch, OK?)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(Way ahead of you.)"
+		}
+	]
+}

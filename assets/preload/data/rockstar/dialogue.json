@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Well, I'll admit, daughter. You've got yourself a mighty capable...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dad"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "sorry",
+			"text": "...what term do you prefer? I know you're not exactly her *Boyfriend*, but..."
+		},
+		{
+			"expression": "awestruck",
+			"text": "Partner.",
+			"boxState": "normal",
+			"speed": 0.0649999999999999,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Alright.",
+			"boxState": "normal",
+			"speed": 0.07,
+			"portrait": "dad"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Thank you for asking, sir."
+		},
+		{
+			"expression": "confused",
+			"text": "Oh man, the audience seems to want an encore.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "excited",
+			"text": "Guess we rocked it pretty hard, eh?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "nervous-smile",
+			"text": "Well, there is one more song I have here...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "excited",
+			"text": "Alright, hit it!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

@@ -31,7 +31,7 @@ class GitarooPause extends MusicBeatState
 		add(bf);
 		bf.screenCenter(X);
 
-		replayButton = new FlxSprite(FlxG.width * 0.28, FlxG.height * 0.7);
+		replayButton = new FlxSprite(FlxG.width * 0.23, FlxG.height * 0.7);
 		replayButton.frames = Paths.getSparrowAtlas('pauseAlt/pauseUI');
 		replayButton.animation.addByPrefix('selected', 'bluereplay', 0, false);
 		replayButton.animation.appendByPrefix('selected', 'yellowreplay');

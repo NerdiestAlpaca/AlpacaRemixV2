@@ -1,0 +1,123 @@
+{
+	"dialogue": [
+		{
+			"expression": "confused",
+			"text": "Hey wait, Pico...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "That sounded an awful lot like..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "A *Shanty.*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "reunion",
+			"text": "Oh, you son of a gun."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "...I don't get it."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Don't worry about it."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "So uh."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "What happened to your eye, old pal?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "An encounter with a squid, of all things. Eye's not gone, but it may as well be. Can't see shit out of it... even without the eyepatch."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "I'll spare ye the gruesome details, but it ain't pretty."
+		},
+		{
+			"speed": 0.1,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Yikes."
+		},
+		{
+			"speed": 0.1,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Sheesh."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Aye... lighten up, bud. Could be a lot worse."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "I'm thankful I survived to tell the tale!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That's true, I suppose!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "awestruck",
+			"text": "Sick pirate talk by the way. I like it."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Aye, thanks matey."
+		}
+	]
+}

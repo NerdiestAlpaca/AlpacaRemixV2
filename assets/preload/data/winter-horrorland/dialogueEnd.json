@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "That was quite fun!",
+			"boxState": "normal",
+			"portrait": "monster",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Heck yeah it was!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh, by the way, before I put things back to normal...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "monster"
+		},
+		{
+			"expression": "serious",
+			"text": "...there is something else I must tell you.",
+			"boxState": "normal",
+			"speed": 0.065,
+			"portrait": "monster"
+		},
+		{
+			"expression": "serious",
+			"text": "I've seen glimpses of the future. *Your* future.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "monster"
+		},
+		{
+			"expression": "serious",
+			"text": "Your life... won't be as easy from here on out. Those missions you're being sent on will get a lot more dangerous.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "monster"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "serious",
+			"text": "Got it."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Thank you for the warning, Baphomet."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "monster",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Any friend of GF's is a friend of mine. You're quite welcome, BF."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So uh. Can I see her again now?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "monster",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh yes yes of course, I'll just..."
+		}
+	]
+}

@@ -1,0 +1,89 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-60,
+		-200
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-13,
+				0
+			],
+			"loop_name": "MONSTER LOOP",
+			"idle_name": "MONSTER0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				20
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				0,
+				20
+			],
+			"loop_name": "MONSTER EVIL LOOP",
+			"idle_name": "MONSTER EVIL0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				-34
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				0,
+				-50
+			],
+			"loop_name": "MONSTER MAD LOOP",
+			"idle_name": "MONSTER MAD0"
+		},
+		{
+			"loop_offsets": [
+				-70,
+				6
+			],
+			"anim": "laugh",
+			"idle_offsets": [
+				-70,
+				0
+			],
+			"loop_name": "MONSTER LAUGH LOOP",
+			"idle_name": "MONSTER LAUGH0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "creepy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "MONSTER CREEPY LOOP",
+			"idle_name": "MONSTER CREEPY0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "serious",
+			"idle_offsets": [
+				-13,
+				0
+			],
+			"loop_name": "MONSTER SERIOUS LOOP",
+			"idle_name": "MONSTER SERIOUS0"
+		}
+	],
+	"image": "Monster_Dialogue"
+}

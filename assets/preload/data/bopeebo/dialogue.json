@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Well, well, well. Look who decided to show up.",
+			"boxState": "normal",
+			"portrait": "dad",
+			"speed": 0.05
+		},
+		{
+			"expression": "pissed",
+			"text": "You're late.",
+			"boxState": "normal",
+			"portrait": "dad",
+			"speed": 0.1
+		},
+		{
+			"expression": "sad",
+			"text": "Yes sir, I know.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.065
+		},
+		{
+			"expression": "pissed",
+			"text": "Can I really trust you with my daughter if you can't even show up to our concert on time?",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "dad"
+		},
+		{
+			"expression": "shocked",
+			"text": "DAD!",
+			"boxState": "angry",
+			"speed": 0.065,
+			"portrait": "gf"
+		},
+		{
+			"expression": "shocked",
+			"text": "Y-you can trust me, I promise!",
+			"boxState": "normal",
+			"speed": 0.035,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "Hmph.",
+			"boxState": "normal",
+			"speed": 0.065,
+			"portrait": "dad"
+		},
+		{
+			"expression": "talk",
+			"text": "We'll discuss this later. We're supposed to have started 5 minutes ago.",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "dad"
+		},
+		{
+			"expression": "talk",
+			"text": "Right.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "excited",
+			"text": "Break a leg, you two!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "Just... not each other's.",
+			"boxState": "normal",
+			"speed": 0.07,
+			"portrait": "gf"
+		}
+	]
+}

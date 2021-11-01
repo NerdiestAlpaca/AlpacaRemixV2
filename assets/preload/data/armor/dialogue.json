@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"expression": "shocked",
+			"text": "Whaaaat the hell just happened?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "A-and, sheesh, why's it so cold?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": "Ahh, there we go."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": "So. We've tried to do this peacefully, Mr. Knight. And I see that's not quite going to work."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": "So either you come with us..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "furious",
+			"text": "Or your head will be as iced as that tank back there."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tankman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Y-you did this?! I knew that shady king was hiding something..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "GF... I had no idea..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "love",
+			"text": "That you were so AWESOME!!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "awestruck",
+			"text": "You'd better listen to her, dude, cuz... I have no idea what else she can do."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tankman",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "...Gah! Still not happening, assholes!"
+		}
+	]
+}

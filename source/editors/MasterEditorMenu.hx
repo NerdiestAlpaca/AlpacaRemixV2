@@ -18,11 +18,11 @@ using StringTools;
 class MasterEditorMenu extends MusicBeatState
 {
 	var options:Array<String> = [
+		'Character Editor',
 		'Week Editor',
 		'Menu Character Editor',
 		'Dialogue Editor',
-		'Dialogue Portrait Editor',
-		'Character Editor'
+		'Dialogue Portrait Editor'
 	];
 	private var grpTexts:FlxTypedGroup<Alphabet>;
 

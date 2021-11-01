@@ -1,0 +1,50 @@
+{
+	"position": [
+		80,
+		-50
+	],
+	"dialogue_pos": "left",
+	"scale": 1.1,
+	"image": "Senpai_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				-3,
+				-3
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "CYBORG0",
+			"loop_name": "CYBORG LOOP"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "CYBORG MAD0",
+			"loop_name": "CYBORG MAD LOOP"
+		},
+		{
+			"loop_offsets": [
+				26,
+				10
+			],
+			"anim": "spirit",
+			"idle_offsets": [
+				20,
+				9
+			],
+			"loop_name": "SPIRIT LOOP",
+			"idle_name": "SPIRIT0"
+		}
+	]
+}

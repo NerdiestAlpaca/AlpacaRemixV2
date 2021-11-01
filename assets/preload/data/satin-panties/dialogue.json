@@ -1,0 +1,130 @@
+{
+	"dialogue": [
+		{
+			"expression": "shocked",
+			"text": "Woah woah woah what's going on?",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "I think I might know...",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.045
+		},
+		{
+			"expression": "shocked",
+			"text": "Where are we??",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "A-and...",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "love",
+			"text": "Who's THAT?!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.1
+		},
+		{
+			"expression": "pissed",
+			"text": "BF, that's my MOM!",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.075
+		},
+		{
+			"expression": "shocked",
+			"text": "OH FUCK.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.03
+		},
+		{
+			"expression": "talk",
+			"text": "Ahh. So you're the little big shot my husband mentioned.",
+			"boxState": "normal",
+			"portrait": "mom",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Charmed to finally meet you.",
+			"boxState": "normal",
+			"portrait": "mom",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "Uh yeah, about that.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.035
+		},
+		{
+			"expression": "shocked",
+			"text": "WHY are we meeting on top of a limo on the FREEWAY?!",
+			"boxState": "angry",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "It's not like I could've let you IN my limo. We've never met before! And besides...",
+			"boxState": "normal",
+			"portrait": "mom",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "Isn't this WAY more fun?!",
+			"boxState": "normal",
+			"portrait": "mom",
+			"speed": 0.05
+		},
+		{
+			"expression": "awestruck",
+			"text": "(She's a real thrillseeker, huh.)",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "(Yep. I'm used to it.)",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.075
+		},
+		{
+			"expression": "excited",
+			"text": "Oh oh, while you're here.\\nHow about a song or two? I've heard you're a great singer!",
+			"boxState": "normal",
+			"portrait": "mom",
+			"speed": 0.05
+		},
+		{
+			"expression": "awestruck",
+			"text": "Uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.025
+		},
+		{
+			"expression": "talk",
+			"text": "Ok. Sure. Why not.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.07
+		}
+	]
+}

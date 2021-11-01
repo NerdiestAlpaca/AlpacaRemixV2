@@ -1,0 +1,144 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "What a nice day, right, Girlfriend?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "You said it!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "nervous-smile",
+			"text": "...you sure you're comfortable with your sweater and scarf on?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "awestruck",
+			"text": "Hm? Oh yeah, don't worry. I'm used to it--"
+		},
+		{
+			"speed": 0.15,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Wait a sec."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "?"
+		},
+		{
+			"speed": 0.105,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "awestruck",
+			"text": "There's no way..."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "reunion",
+			"text": "There IS a way! Oh my god, Pico's here! HEY PICO!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "Huh?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh shit! Hey there, I was actually gonna come see you. How's it hanging?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "reunion",
+			"text": "It's going great! Oh man, I thought you'd never be back..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BF, is this a friend of yours?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "BF? So you still haven't settled on a name yet?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh no, it's not that. I just decided to settle on 'BF'."
+		},
+		{
+			"speed": 0.065,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "It doesn't really stand for anything."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hm. Neat."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "So hey. You wanna sing a few songs together, like old times?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "reunion",
+			"text": "Hell yeah I would!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Did you learn any catchy sea shanties while you were gone?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "I sure did."
+		}
+	]
+}

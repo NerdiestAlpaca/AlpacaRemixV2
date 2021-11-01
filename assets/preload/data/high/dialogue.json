@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Wait wait wait.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "GF, your mom's a deer???"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Yeah! She's awesome."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Follow-up question. If she's a doe, what's with the antlers?"
+		},
+		{
+			"speed": 0.065,
+			"portrait": "mom",
+			"boxState": "normal",
+			"expression": "unhappy",
+			"text": "Reindeer, darling."
+		},
+		{
+			"speed": 0.035,
+			"portrait": "mom",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "(...you got yourself a partner who doesn't even know female reindeer have antlers?)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "(Mom, c'mon, not right in front of them.)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "I'm really sorry, ma'am. I didn't mean to offend you."
+		},
+		{
+			"speed": 0,
+			"portrait": "mom",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mom",
+			"boxState": "normal",
+			"expression": "unhappy",
+			"text": "I suppose I'll let it slide."
+		},
+		{
+			"speed": 0.1,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "nervous-smile",
+			"text": "...you two wanna do another song?"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah that'd be good right now thank you"
+		}
+	]
+}

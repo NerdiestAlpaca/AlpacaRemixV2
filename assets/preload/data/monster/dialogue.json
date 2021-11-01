@@ -1,0 +1,186 @@
+{
+	"dialogue": [
+		{
+			"expression": "shocked",
+			"text": "Oh my god, what?",
+			"boxState": "normal",
+			"speed": 0.09,
+			"portrait": "gf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "nervous-smile",
+			"text": "Baphomet, what're you doing here?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Wait."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "This is our target?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "monster",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "What in the world?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "BF, Baphomet can't be our target. They're a friend of mine."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "But wait... nobody else has even come near this place all night."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Did dad really send us to...?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "monster",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What in the world are you talking about?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "nervous-smile",
+			"text": "BF is taking on some jobs for Dad."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "nervous-smile",
+			"text": "Their first job was to come babysit these kids and wait for a 'certain shadowy figure' to show up--"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Oh my god dad what the fuck. What the fuck?"
+		},
+		{
+			"speed": 0.06,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "What's going on here?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "(Did Dad really want Baphomet out of the picture that much? I know he said they're a bad influence, but...)"
+		},
+		{
+			"speed": 0.075,
+			"portrait": "monster",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Wait a minute. I thought your dad liked me?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "He said you were respectable. That... doesn't mean much coming from him."
+		},
+		{
+			"speed": 0.075,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "Wait what? Shit."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Ohhhhh yeah. Shoulda told you that. I'm really sorry, BF..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "*sigh* Oh well. I was hoping I had actually gotten on your dad's good side. But..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "I guess it doesn't really matter. Plus I get to meet a friend of yours!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "awestruck",
+			"text": "Hey uh, excuse me? Do you happen to sing at all?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "monster",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "I do quite enjoy singing, yes."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Coolswag"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "monster",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...Pardon me?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "nervous-smile",
+			"text": "They're saying that it's great that you enjoy singing, Baph."
+		},
+		{
+			"speed": 0.09,
+			"portrait": "monster",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...I see."
+		}
+	]
+}

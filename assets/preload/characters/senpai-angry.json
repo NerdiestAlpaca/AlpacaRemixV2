@@ -14,7 +14,7 @@
 		{
 			"offsets": [
 				5,
-				37
+				7
 			],
 			"loop": false,
 			"anim": "singUP",
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				40,
-				0
+				10,
+				-8
 			],
 			"loop": false,
 			"anim": "singLEFT",
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				0,
-				0
+				-27,
+				-5
 			],
 			"loop": false,
 			"anim": "singRIGHT",
@@ -46,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				14,
-				0
+				-16,
+				-18
 			],
 			"loop": false,
 			"anim": "singDOWN",
@@ -56,13 +56,13 @@
 			"indices": []
 		}
 	],
-	"no_antialiasing": true,
+	"no_antialiasing": false,
 	"image": "characters/senpai",
 	"position": [
-		150,
-		360
+		60,
+		10
 	],
-	"healthicon": "senpai-pixel",
+	"healthicon": "senpai",
 	"flip_x": false,
 	"healthbar_colors": [
 		255,
@@ -70,9 +70,9 @@
 		111
 	],
 	"camera_position": [
-		-240,
-		-330
+		-40,
+		20
 	],
 	"sing_duration": 4,
-	"scale": 6
+	"scale": 1
 }

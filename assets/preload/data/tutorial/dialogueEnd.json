@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "Alright, that was great!",
+			"boxState": "normal",
+			"speed": 0.0499999999999996,
+			"portrait": "bf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "How long until the concert?"
+		},
+		{
+			"speed": 0.1,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "...5 minutes, honey."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Shit."
+		}
+	]
+}

@@ -1,0 +1,109 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Girlfriend...? Where'd you go--"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "OHHH WHAT THE"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "senpai",
+			"boxState": "normal",
+			"expression": "spirit",
+			"text": "What's the matter, scared?"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Of you? Hell no! You just... caught me by surprise. "
+		},
+		{
+			"speed": 0.1,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Now."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "WHERE THE HELL IS MY GIRLFRIEND?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "senpai",
+			"boxState": "normal",
+			"expression": "spirit",
+			"text": "I did away with her. She was getting in the way."
+		},
+		{
+			"speed": 0.08,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "YOU\\nW H A T ?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "senpai",
+			"boxState": "normal",
+			"expression": "spirit",
+			"text": "She'll be fine. I just sent her into a limbo of sorts."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "THE FUCK. BRING HER BACK!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "senpai",
+			"boxState": "normal",
+			"expression": "spirit",
+			"text": "If you win, I will."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "senpai",
+			"boxState": "normal",
+			"expression": "spirit",
+			"text": "Lose... and I'll send you there too."
+		},
+		{
+			"speed": 0.035,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "I should've known there was something fishy about you... "
+		},
+		{
+			"speed": 0.065,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "ALRIGHT, DEAL!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "LET'S ROCK, YA BIG DRIP."
+		}
+	]
+}

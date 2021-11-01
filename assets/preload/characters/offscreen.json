@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle spirit"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-5
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-5
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "spirit down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-5
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				41
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/spirit",
+	"position": [
+		-2000,
+		20000
+	],
+	"healthicon": "blank",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		2300,
+		-19900
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

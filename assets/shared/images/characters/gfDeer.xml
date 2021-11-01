@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfDeer.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF Dancing Beat Hair blowing DEER0000" x="0" y="0" width="699" height="675" frameX="-2" frameY="-6" frameWidth="703" frameHeight="681"/>
+	<SubTexture name="GF Dancing Beat Hair blowing DEER0001" x="707" y="0" width="703" height="675" frameX="0" frameY="-6" frameWidth="703" frameHeight="681"/>
+	<SubTexture name="GF Dancing Beat Hair blowing DEER0002" x="1418" y="0" width="703" height="673" frameX="0" frameY="-8" frameWidth="703" frameHeight="681"/>
+	<SubTexture name="GF Dancing Beat Hair blowing DEER0003" x="2129" y="0" width="699" height="673" frameX="-2" frameY="-8" frameWidth="703" frameHeight="681"/>
+	<SubTexture name="GF Dancing Beat Hair blowing DEER0004" x="2836" y="0" width="699" height="676" frameX="-2" frameY="-5" frameWidth="703" frameHeight="681"/>
+	<SubTexture name="GF Dancing Beat Hair blowing DEER0005" x="0" y="684" width="699" height="676" frameX="-2" frameY="-5" frameWidth="703" frameHeight="681"/>
+	<SubTexture name="GF Dancing Beat Hair blowing DEER0006" x="707" y="684" width="699" height="675" frameX="-2" frameY="-6" frameWidth="703" frameHeight="681"/>
+	<SubTexture name="GF Dancing Beat Hair blowing DEER0007" x="1414" y="684" width="699" height="674" frameX="-2" frameY="-7" frameWidth="703" frameHeight="681"/>
+	<SubTexture name="GF Dancing Beat Hair blowing DEER0008" x="1414" y="684" width="699" height="674" frameX="-2" frameY="-7" frameWidth="703" frameHeight="681"/>
+	<SubTexture name="GF Dancing Beat Hair blowing DEER0009" x="2121" y="684" width="699" height="674" frameX="-2" frameY="-7" frameWidth="703" frameHeight="681"/>
+	<SubTexture name="GF Dancing Beat Hair blowing DEER0010" x="2828" y="684" width="699" height="680" frameX="-2" frameY="-1" frameWidth="703" frameHeight="681"/>
+	<SubTexture name="GF Dancing Beat Hair blowing DEER0011" x="0" y="1372" width="699" height="680" frameX="-2" frameY="-1" frameWidth="703" frameHeight="681"/>
+	<SubTexture name="GF Dancing Beat Hair blowing DEER0012" x="0" y="1372" width="699" height="680" frameX="-2" frameY="-1" frameWidth="703" frameHeight="681"/>
+	<SubTexture name="GF Dancing Beat Hair blowing DEER0013" x="707" y="1372" width="699" height="681" frameX="-2" frameY="0" frameWidth="703" frameHeight="681"/>
+	<SubTexture name="GF Dancing Beat Hair blowing DEER0014" x="707" y="1372" width="699" height="681" frameX="-2" frameY="0" frameWidth="703" frameHeight="681"/>
+	<SubTexture name="GF Dancing Beat Hair blowing DEER0015" x="1414" y="1372" width="699" height="678" frameX="-2" frameY="-3" frameWidth="703" frameHeight="681"/>
+	<SubTexture name="GF Dancing Beat Hair blowing DEER0016" x="2121" y="1372" width="703" height="678" frameX="0" frameY="-3" frameWidth="703" frameHeight="681"/>
+	<SubTexture name="GF Dancing Beat Hair blowing DEER0017" x="2832" y="1372" width="703" height="677" frameX="0" frameY="-4" frameWidth="703" frameHeight="681"/>
+	<SubTexture name="GF Dancing Beat Hair blowing DEER0018" x="0" y="2061" width="699" height="677" frameX="-2" frameY="-4" frameWidth="703" frameHeight="681"/>
+	<SubTexture name="GF Dancing Beat Hair blowing DEER0019" x="707" y="2061" width="699" height="675" frameX="-2" frameY="-6" frameWidth="703" frameHeight="681"/>
+	<SubTexture name="GF Dancing Beat Hair blowing DEER0020" x="1414" y="2061" width="699" height="675" frameX="-2" frameY="-6" frameWidth="703" frameHeight="681"/>
+	<SubTexture name="GF Dancing Beat Hair blowing DEER0021" x="2121" y="2061" width="699" height="673" frameX="-2" frameY="-8" frameWidth="703" frameHeight="681"/>
+	<SubTexture name="GF Dancing Beat Hair blowing DEER0022" x="2828" y="2061" width="699" height="677" frameX="-2" frameY="-4" frameWidth="703" frameHeight="681"/>
+	<SubTexture name="GF Dancing Beat Hair blowing DEER0023" x="2828" y="2061" width="699" height="677" frameX="-2" frameY="-4" frameWidth="703" frameHeight="681"/>
+	<SubTexture name="GF Dancing Beat Hair blowing DEER0024" x="0" y="2746" width="699" height="677" frameX="-2" frameY="-4" frameWidth="703" frameHeight="681"/>
+	<SubTexture name="GF Dancing Beat Hair blowing DEER0025" x="707" y="2746" width="699" height="677" frameX="-2" frameY="-4" frameWidth="703" frameHeight="681"/>
+	<SubTexture name="GF Dancing Beat Hair blowing DEER0026" x="1414" y="2746" width="699" height="677" frameX="-2" frameY="-4" frameWidth="703" frameHeight="681"/>
+	<SubTexture name="GF Dancing Beat Hair blowing DEER0027" x="1414" y="2746" width="699" height="677" frameX="-2" frameY="-4" frameWidth="703" frameHeight="681"/>
+	<SubTexture name="GF Dancing Beat Hair blowing DEER0028" x="2121" y="2746" width="699" height="678" frameX="-2" frameY="-3" frameWidth="703" frameHeight="681"/>
+	<SubTexture name="GF Dancing Beat Hair blowing DEER0029" x="2121" y="2746" width="699" height="678" frameX="-2" frameY="-3" frameWidth="703" frameHeight="681"/>
+</TextureAtlas>

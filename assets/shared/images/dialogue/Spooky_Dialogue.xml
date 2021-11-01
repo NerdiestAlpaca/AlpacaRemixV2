@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Spooky_Dialogue.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SPOOKY KIDS0000" x="0" y="0" width="571" height="526"/>
+	<SubTexture name="SPOOKY KIDS0001" x="0" y="0" width="571" height="526"/>
+	<SubTexture name="SPOOKY KIDS LOOP0000" x="581" y="0" width="571" height="551" frameX="0" frameY="0" frameWidth="591" frameHeight="551"/>
+	<SubTexture name="SPOOKY KIDS LOOP0001" x="581" y="0" width="571" height="551" frameX="0" frameY="0" frameWidth="591" frameHeight="551"/>
+	<SubTexture name="SPOOKY KIDS LOOP0002" x="1162" y="0" width="581" height="545" frameX="-10" frameY="-5" frameWidth="591" frameHeight="551"/>
+	<SubTexture name="SPOOKY KIDS LOOP0003" x="1162" y="0" width="581" height="545" frameX="-10" frameY="-5" frameWidth="591" frameHeight="551"/>
+	<SubTexture name="SPOOKY KIDS LOOP0004" x="0" y="561" width="571" height="526" frameX="0" frameY="-24" frameWidth="591" frameHeight="551"/>
+	<SubTexture name="SPOOKY KIDS LOOP0005" x="0" y="561" width="571" height="526" frameX="0" frameY="-24" frameWidth="591" frameHeight="551"/>
+	<SubTexture name="TOPSY0000" x="1181" y="561" width="286" height="325" frameX="0" frameY="0" frameWidth="292" frameHeight="332"/>
+	<SubTexture name="TOPSY0001" x="1181" y="561" width="286" height="325" frameX="0" frameY="0" frameWidth="292" frameHeight="332"/>
+	<SubTexture name="TOPSY LOOP0000" x="581" y="561" width="289" height="332" frameX="0" frameY="0" frameWidth="292" frameHeight="332"/>
+	<SubTexture name="TOPSY LOOP0001" x="581" y="561" width="289" height="332" frameX="0" frameY="0" frameWidth="292" frameHeight="332"/>
+	<SubTexture name="TOPSY LOOP0002" x="880" y="561" width="291" height="318" frameX="-1" frameY="-13" frameWidth="292" frameHeight="332"/>
+	<SubTexture name="TOPSY LOOP0003" x="880" y="561" width="291" height="318" frameX="-1" frameY="-13" frameWidth="292" frameHeight="332"/>
+	<SubTexture name="TOPSY LOOP0004" x="1181" y="561" width="286" height="325" frameX="0" frameY="-6" frameWidth="292" frameHeight="332"/>
+	<SubTexture name="TOPSY LOOP0005" x="1181" y="561" width="286" height="325" frameX="0" frameY="-6" frameWidth="292" frameHeight="332"/>
+	<SubTexture name="VICTOR0000" x="591" y="1097" width="571" height="355" frameX="0" frameY="0" frameWidth="591" frameHeight="382"/>
+	<SubTexture name="VICTOR0001" x="591" y="1097" width="571" height="355" frameX="0" frameY="0" frameWidth="591" frameHeight="382"/>
+	<SubTexture name="VICTOR LOOP0000" x="1477" y="561" width="571" height="382" frameX="0" frameY="0" frameWidth="591" frameHeight="382"/>
+	<SubTexture name="VICTOR LOOP0001" x="1477" y="561" width="571" height="382" frameX="0" frameY="0" frameWidth="591" frameHeight="382"/>
+	<SubTexture name="VICTOR LOOP0002" x="0" y="1097" width="581" height="377" frameX="-10" frameY="-5" frameWidth="591" frameHeight="382"/>
+	<SubTexture name="VICTOR LOOP0003" x="0" y="1097" width="581" height="377" frameX="-10" frameY="-5" frameWidth="591" frameHeight="382"/>
+	<SubTexture name="VICTOR LOOP0004" x="591" y="1097" width="571" height="355" frameX="0" frameY="-24" frameWidth="591" frameHeight="382"/>
+	<SubTexture name="VICTOR LOOP0005" x="591" y="1097" width="571" height="355" frameX="0" frameY="-24" frameWidth="591" frameHeight="382"/>
+</TextureAtlas>

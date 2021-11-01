@@ -1,22 +1,52 @@
 {
-	"songs": [
-		["Spookeez", "spooky", [34, 51, 68]],
-		["South", "spooky", [34, 51, 68]],
-		["Monster", "monster", [34, 51, 68]]
-	],
-
+	"storyName": "In The Shadows",
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"weekBefore": "week1",
+	"startUnlocked": true,
 	"weekCharacters": [
 		"spooky",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "halloween",
-
-	"storyName": "Spooky Month",
-	"weekBefore": "week1",
-	"weekName": "Week 2",
-	"startUnlocked": true,
-
+	"songs": [
+		[
+			"Spookeez",
+			"spooky",
+			[
+				34,
+				51,
+				68
+			]
+		],
+		[
+			"South",
+			"spooky",
+			[
+				34,
+				51,
+				68
+			]
+		],
+		[
+			"Trick or Treat",
+			"spooky",
+			[
+				34,
+				51,
+				68
+			]
+		],
+		[
+			"Monster",
+			"monster",
+			[
+				34,
+				51,
+				68
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Chapter 2"
 }

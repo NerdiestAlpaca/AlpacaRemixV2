@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Tankman_Dialogue.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TANKMAN0000" x="1122" y="0" width="550" height="623" frameX="0" frameY="0" frameWidth="552" frameHeight="637"/>
+	<SubTexture name="TANKMAN0001" x="1122" y="0" width="550" height="623" frameX="0" frameY="0" frameWidth="552" frameHeight="637"/>
+	<SubTexture name="TANKMAN LOOP0000" x="0" y="0" width="552" height="637"/>
+	<SubTexture name="TANKMAN LOOP0001" x="0" y="0" width="552" height="637"/>
+	<SubTexture name="TANKMAN LOOP0002" x="562" y="0" width="550" height="632" frameX="-2" frameY="-5" frameWidth="552" frameHeight="637"/>
+	<SubTexture name="TANKMAN LOOP0003" x="562" y="0" width="550" height="632" frameX="-2" frameY="-5" frameWidth="552" frameHeight="637"/>
+	<SubTexture name="TANKMAN LOOP0004" x="1122" y="0" width="550" height="623" frameX="-2" frameY="-11" frameWidth="552" frameHeight="637"/>
+	<SubTexture name="TANKMAN LOOP0005" x="1122" y="0" width="550" height="623" frameX="-2" frameY="-11" frameWidth="552" frameHeight="637"/>
+</TextureAtlas>

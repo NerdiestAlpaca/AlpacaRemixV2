@@ -1,0 +1,130 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "So. My first mission from the king.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "annoyed",
+			"text": "...and it's BABYSITTING?",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "nervous-smile",
+			"text": "Try to think of it more as protecting them. We're supposed to be keeping watch for a shadowy figure, right?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "I guess... but what the hell are these kids doing in a place like this anyway?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "We like it here, it's spooky!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spooky"
+		},
+		{
+			"speed": 0.085,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "...I see."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright kids, what're your names?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spooky",
+			"boxState": "normal",
+			"expression": "victor",
+			"text": "My name's Victor."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spooky",
+			"boxState": "normal",
+			"expression": "topsy",
+			"text": "I'm Topsy!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hm. Alright."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "nervous-smile",
+			"text": "Cute costumes, by the way!\\n...even if it's not Halloween."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spooky",
+			"boxState": "normal",
+			"expression": "victor",
+			"text": "Costumes? No no, only Topsy is wearing a costume."
+		},
+		{
+			"speed": 0.15,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "awestruck",
+			"text": "Oh."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spooky",
+			"boxState": "normal",
+			"expression": "topsy",
+			"text": "Excuse me, do you like singing?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "reunion",
+			"text": "I was actually going to ask you the same thing."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spooky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yay!! Let's sing some spooky songs!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spooky",
+			"boxState": "normal",
+			"expression": "victor",
+			"text": "Can you play this CD please, miss?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Sure thing!"
+		}
+	]
+}

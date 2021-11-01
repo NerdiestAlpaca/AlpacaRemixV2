@@ -49,7 +49,7 @@ class TitleState extends MusicBeatState
 	var wackyImage:FlxSprite;
 
 	var easterEggEnabled:Bool = true; //Disable this to hide the easter egg
-	var easterEggKeyCombination:Array<FlxKey> = [FlxKey.B, FlxKey.B]; //bb stands for bbpanzu cuz he wanted this lmao
+	var easterEggKeyCombination:Array<FlxKey> = [FlxKey.P, FlxKey.A, FlxKey.C, FlxKey.A]; //Paca Moment
 	var lastKeysPressed:Array<FlxKey> = [];
 
 	var mustUpdate:Bool = false;
@@ -202,18 +202,18 @@ class TitleState extends MusicBeatState
 		// logoBl.color = FlxColor.BLACK;
 
 		swagShader = new ColorSwap();
-		if(!FlxG.save.data.psykaEasterEgg || !easterEggEnabled) {
+		if(!FlxG.save.data.alpacaEasterEgg || !easterEggEnabled) {
 			gfDance = new FlxSprite(FlxG.width * 0.4, FlxG.height * 0.07);
 			gfDance.frames = Paths.getSparrowAtlas('gfDanceTitle');
 			gfDance.animation.addByIndices('danceLeft', 'gfDance', [30, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], "", 24, false);
 			gfDance.animation.addByIndices('danceRight', 'gfDance', [15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29], "", 24, false);
 		}
-		else //Psyka easter egg
+		else //Alpaca easter egg
 		{
 			gfDance = new FlxSprite(FlxG.width * 0.4, FlxG.height * 0.04);
-			gfDance.frames = Paths.getSparrowAtlas('psykaDanceTitle');
-			gfDance.animation.addByIndices('danceLeft', 'psykaDance', [30, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], "", 24, false);
-			gfDance.animation.addByIndices('danceRight', 'psykaDance', [15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29], "", 24, false);
+			gfDance.frames = Paths.getSparrowAtlas('alpacaDanceTitle');
+			gfDance.animation.addByIndices('danceLeft', 'alpacaDance', [30, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], "", 24, false);
+			gfDance.animation.addByIndices('danceRight', 'alpacaDance', [15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29], "", 24, false);
 		}
 		gfDance.antialiasing = ClientPrefs.globalAntialiasing;
 		add(gfDance);
@@ -371,7 +371,7 @@ class TitleState extends MusicBeatState
 
 						if(!isDifferent) {
 							trace('Easter egg triggered!');
-							FlxG.save.data.psykaEasterEgg = !FlxG.save.data.psykaEasterEgg;
+							FlxG.save.data.alpacaEasterEgg = !FlxG.save.data.alpacaEasterEgg;
 							FlxG.sound.play(Paths.sound('secretSound'));
 
 							var black:FlxSprite = new FlxSprite(0, 0).makeGraphic(FlxG.width, FlxG.height, FlxColor.BLACK);
@@ -476,9 +476,9 @@ class TitleState extends MusicBeatState
 				// credTextShit.text = 'In association \nwith';
 				// credTextShit.screenCenter();
 				case 5:
-					createCoolText(['This is a mod to'], -60);
+					createCoolText(['NerdiestAlpaca Presents'], -60);
 				case 7:
-					addMoreText('This game right below lol', -60);
+					addMoreText('A mod for', -60);
 					logoSpr.visible = true;
 				// credTextShit.text += '\nNewgrounds';
 				case 8:
@@ -500,13 +500,13 @@ class TitleState extends MusicBeatState
 				// credTextShit.text = "Friday";
 				// credTextShit.screenCenter();
 				case 13:
-					addMoreText('Friday');
+					addMoreText('FNF');
 				// credTextShit.visible = true;
 				case 14:
-					addMoreText('Night');
+					addMoreText('Alpaca');
 				// credTextShit.text += '\nNight';
 				case 15:
-					addMoreText('Funkin'); // credTextShit.text += '\nFunkin';
+					addMoreText('Remix'); // credTextShit.text += '\nFunkin';
 
 				case 16:
 					skipIntro();

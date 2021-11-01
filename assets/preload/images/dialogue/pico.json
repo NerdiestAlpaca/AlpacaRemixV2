@@ -1,0 +1,50 @@
+{
+	"position": [
+		20,
+		50
+	],
+	"dialogue_pos": "left",
+	"scale": 1.15,
+	"image": "Pico_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				5
+			],
+			"loop_offsets": [
+				0,
+				20
+			],
+			"anim": "talk",
+			"idle_name": "PICO0",
+			"loop_name": "PICO LOOP"
+		},
+		{
+			"idle_offsets": [
+				0,
+				10
+			],
+			"anim": "excited",
+			"loop_offsets": [
+				0,
+				10
+			],
+			"idle_name": "PICO READY0",
+			"loop_name": "PICO READY LOOP"
+		},
+		{
+			"loop_offsets": [
+				0,
+				15
+			],
+			"anim": "annoyed",
+			"idle_offsets": [
+				0,
+				10
+			],
+			"loop_name": "PICO NOT SMILE LOOP",
+			"idle_name": "PICO NOT SMILE0"
+		}
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "reunion",
+			"text": "Woah, cool light show! Did you set that up somehow?!"
+		},
+		{
+			"speed": 0.075,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "...I was 'bout to ask you the same thing."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "awestruck",
+			"text": "Oh. Weird."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "nervous-smile",
+			"text": "I-I set it up! Yeah, it was all me..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "(Technically I'm not even lying to them... oh Dad's gonna kill me if he finds out about this.)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "reunion",
+			"text": "That was really cool, GF! Thank you!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "nervous-smile",
+			"text": "N-no problem!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*Yawn* Hooboy. Alright, I think it's about time for me to hit the hay. See you around, pal."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "See you, Pico!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "It was nice meeting you!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Let's get home too, BF. I'll tell Dad I'll be staying at your place tonight."
+		}
+	]
+}

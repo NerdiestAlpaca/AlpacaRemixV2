@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Dad_Dialogue.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DAD0000" x="0" y="0" width="621" height="777"/>
+	<SubTexture name="DAD0001" x="0" y="0" width="621" height="777"/>
+	<SubTexture name="DAD LOOP0000" x="631" y="0" width="716" height="770" frameX="0" frameY="-7" frameWidth="716" frameHeight="777"/>
+	<SubTexture name="DAD LOOP0001" x="631" y="0" width="716" height="770" frameX="0" frameY="-7" frameWidth="716" frameHeight="777"/>
+	<SubTexture name="DAD LOOP0002" x="1357" y="0" width="656" height="777" frameX="-55" frameY="0" frameWidth="716" frameHeight="777"/>
+	<SubTexture name="DAD LOOP0003" x="2023" y="0" width="656" height="777" frameX="-55" frameY="0" frameWidth="716" frameHeight="777"/>
+	<SubTexture name="DAD LOOP0004" x="2689" y="0" width="621" height="777" frameX="-89" frameY="0" frameWidth="716" frameHeight="777"/>
+	<SubTexture name="DAD LOOP0005" x="2689" y="0" width="621" height="777" frameX="-89" frameY="0" frameWidth="716" frameHeight="777"/>
+	<SubTexture name="DAD SORRY0000" x="632" y="787" width="621" height="780" frameX="0" frameY="0" frameWidth="627" frameHeight="780"/>
+	<SubTexture name="DAD SORRY0001" x="632" y="787" width="621" height="780" frameX="0" frameY="0" frameWidth="627" frameHeight="780"/>
+	<SubTexture name="DAD SORRY LOOP0000" x="3320" y="0" width="627" height="771" frameX="0" frameY="-9" frameWidth="627" frameHeight="780"/>
+	<SubTexture name="DAD SORRY LOOP0001" x="3320" y="0" width="627" height="771" frameX="0" frameY="-9" frameWidth="627" frameHeight="780"/>
+	<SubTexture name="DAD SORRY LOOP0002" x="0" y="787" width="622" height="775" frameX="0" frameY="-5" frameWidth="627" frameHeight="780"/>
+	<SubTexture name="DAD SORRY LOOP0003" x="0" y="787" width="622" height="775" frameX="0" frameY="-5" frameWidth="627" frameHeight="780"/>
+	<SubTexture name="DAD SORRY LOOP0004" x="632" y="787" width="621" height="780" frameX="0" frameY="0" frameWidth="627" frameHeight="780"/>
+	<SubTexture name="DAD SORRY LOOP0005" x="632" y="787" width="621" height="780" frameX="0" frameY="0" frameWidth="627" frameHeight="780"/>
+	<SubTexture name="DAD TICKED0000" x="1263" y="787" width="627" height="772"/>
+	<SubTexture name="DAD TICKED0001" x="1263" y="787" width="627" height="772"/>
+	<SubTexture name="DAD TICKED LOOP0000" x="1900" y="787" width="711" height="779" frameX="0" frameY="0" frameWidth="716" frameHeight="779"/>
+	<SubTexture name="DAD TICKED LOOP0001" x="1900" y="787" width="711" height="779" frameX="0" frameY="0" frameWidth="716" frameHeight="779"/>
+	<SubTexture name="DAD TICKED LOOP0002" x="2621" y="787" width="655" height="779" frameX="-55" frameY="0" frameWidth="716" frameHeight="779"/>
+	<SubTexture name="DAD TICKED LOOP0003" x="2621" y="787" width="655" height="779" frameX="-55" frameY="0" frameWidth="716" frameHeight="779"/>
+	<SubTexture name="DAD TICKED LOOP0004" x="3286" y="787" width="627" height="772" frameX="-89" frameY="-7" frameWidth="716" frameHeight="779"/>
+	<SubTexture name="DAD TICKED LOOP0005" x="3286" y="787" width="627" height="772" frameX="-89" frameY="-7" frameWidth="716" frameHeight="779"/>
+</TextureAtlas>

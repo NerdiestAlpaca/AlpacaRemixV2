@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icons.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="alpaca0000" x="0" y="0" width="98" height="128"/>
+	<SubTexture name="bf0000" x="119" y="0" width="138" height="82"/>
+	<SubTexture name="remix0000" x="278" y="0" width="133" height="97"/>
+</TextureAtlas>

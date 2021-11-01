@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It was really nice of your parents to book me a gig at the mall!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "nervous-smile",
+			"text": "Well, they booked you a gig with themselves..."
+		},
+		{
+			"speed": 0.035,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Are you kidding? Your parents are awesome singers! I couldn't be happier to be performing with 'em!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hello, BF."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mom",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Hey! How's it going?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Goin' well. You ready to rock the place?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Indeed."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mom",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I sure am!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Coolswag."
+		}
+	]
+}

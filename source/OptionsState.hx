@@ -979,7 +979,7 @@ class PreferencesSubstate extends MusicBeatSubstate
 		var daText:String = '';
 		switch(options[curSelected]) {
 			case 'Framerate':
-				daText = "Pretty self explanatory, isn't it?\nDefault value is 60.";
+				daText = "Pretty self explanatory, isn't it?\nDefault value is 120.";
 			case 'Note Delay':
 				daText = "Changes how late a note is spawned.\nUseful for preventing audio lag from wireless earphones.";
 			case 'FPS Counter':

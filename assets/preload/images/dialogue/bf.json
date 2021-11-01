@@ -1,63 +1,154 @@
 {
+	"dialogue_pos": "right",
 	"position": [
-		0,
+		20,
 		50
 	],
-	"dialogue_pos": "right",
-	"scale": 1.25,
-	"image": "BF_Dialogue",
+	"scale": 1.15,
 	"animations": [
 		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				20
+			],
 			"idle_offsets": [
 				-1,
-				-11
+				5
 			],
-			"loop_offsets": [
-				0,
-				0
-			],
-			"anim": "talk",
-			"idle_name": "BF0",
-			"loop_name": "BF LOOP"
+			"loop_name": "BF LOOP",
+			"idle_name": "BF0"
 		},
 		{
-			"idle_offsets": [
-				4,
-				-8
+			"loop_offsets": [
+				0,
+				10
 			],
 			"anim": "excited",
-			"loop_offsets": [
-				5,
-				0
-			],
-			"idle_name": "BF EXCITED0",
-			"loop_name": "BF EXCITED LOOP"
-		},
-		{
 			"idle_offsets": [
 				0,
-				0
+				10
+			],
+			"loop_name": "BF EXCITED LOOP",
+			"idle_name": "BF EXCITED0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				15
 			],
 			"anim": "pissed",
-			"loop_offsets": [
+			"idle_offsets": [
 				0,
 				0
 			],
-			"idle_name": "BF PISSED0",
-			"loop_name": "BF PISSED LOOP"
+			"loop_name": "BF PISSED LOOP",
+			"idle_name": "BF PISSED0"
 		},
 		{
 			"idle_offsets": [
-				-6,
-				-11
+				0,
+				10
 			],
-			"anim": "shocked",
+			"anim": "annoyed",
+			"loop_offsets": [
+				0,
+				15
+			],
+			"idle_name": "BF ANNOYED0",
+			"loop_name": "BF ANNOYED LOOP"
+		},
+		{
 			"loop_offsets": [
 				-4,
-				0
+				10
 			],
-			"idle_name": "BF SHOCK0",
-			"loop_name": "BF SHOCK LOOP"
+			"anim": "shocked",
+			"idle_offsets": [
+				-6,
+				10
+			],
+			"loop_name": "BF SHOCK LOOP",
+			"idle_name": "BF SHOCK0"
+		},
+		{
+			"idle_offsets": [
+				0,
+				9
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				0,
+				25
+			],
+			"idle_name": "BF CONFUSED0",
+			"loop_name": "BF CONFUSED LOOP"
+		},
+		{
+			"loop_offsets": [
+				0,
+				20
+			],
+			"anim": "sad",
+			"idle_offsets": [
+				-1,
+				20
+			],
+			"loop_name": "BF SAD LOOP",
+			"idle_name": "BF SAD0"
+		},
+		{
+			"loop_offsets": [
+				20,
+				10
+			],
+			"anim": "love",
+			"idle_offsets": [
+				17,
+				7
+			],
+			"loop_name": "BF HEART LOOP",
+			"idle_name": "BF HEART0"
+		},
+		{
+			"loop_offsets": [
+				20,
+				10
+			],
+			"anim": "reunion",
+			"idle_offsets": [
+				17,
+				7
+			],
+			"loop_name": "BF REUNION LOOP",
+			"idle_name": "BF REUINION0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				20
+			],
+			"anim": "awestruck",
+			"idle_offsets": [
+				0,
+				20
+			],
+			"loop_name": "BF AWE LOOP",
+			"idle_name": "BF AWE0"
+		},
+		{
+			"loop_name": "BF SERIOUS LOOP",
+			"idle_offsets": [
+				0,
+				20
+			],
+			"idle_name": "BF SERIOUS0",
+			"anim": "serious",
+			"loop_offsets": [
+				0,
+				20
+			]
 		}
-	]
+	],
+	"image": "BF_Dialogue"
 }

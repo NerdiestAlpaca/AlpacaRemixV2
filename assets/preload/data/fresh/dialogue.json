@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Not too shabby, kid."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Thank you, thank you, we'll be here all night."
+		},
+		{
+			"speed": 0.035,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "(Hmph. This kid's gotta make sure to not let their ego give them a big head.)"
+		},
+		{
+			"speed": 0.065,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "(C'mon, dad, let them have fun!)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Hey guys. The next song's about to start."
+		}
+	]
+}

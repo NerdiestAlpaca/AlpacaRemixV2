@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"expression": "confused",
+			"text": "You sure you don't wanna reconsider, man? She's even scaring me a little.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tankman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tankman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright, FINE. There's a ton of things I'd rather do than speak with that king again..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tankman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But dying isn't one of 'em. I give. Take me home with ya or whatever."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Good."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "awestruck",
+			"text": "Oh you're back to normal."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "serious",
+			"text": "(I gotta keep my promise to Baphomet. Can't let her parents find out about this...)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "(Oh man, I can't let my parents find out about this...)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You will not speak of what happened just now. That is a royal order."
+		},
+		{
+			"speed": 0.08,
+			"portrait": "tankman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...Got it."
+		}
+	]
+}

@@ -1,0 +1,151 @@
+{
+	"dialogue": [
+		{
+			"expression": "spirit",
+			"text": ". . .",
+			"boxState": "normal",
+			"speed": 0.2,
+			"portrait": "senpai"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Well?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "senpai",
+			"boxState": "normal",
+			"expression": "spirit",
+			"text": "I'm a man of my word."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "one flash of light later..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "Wh-what's happening?? WHERE AM I--"
+		},
+		{
+			"speed": 0.085,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "I'm... back here."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "reunion",
+			"text": "GF! You're okay!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "BF, what in the world just happened?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "serious",
+			"text": "I'll have to explain later. Our target's getting away!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Leave it be, BF. Our job was just to dismantle the robot..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "serious",
+			"text": "Yeah? Well that kinda fell apart when he sent you to limbo."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "AY YOU!"
+		},
+		{
+			"speed": 0.09,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "GET.\\nBACK.\\nHERE."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "BF, I don't think he can hear you. He's already halfway in the wall-- aaaand he's gone."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "Fuck. Now we have an evil spirit on the loose."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "What the hell did he even mean when he said you were 'getting in the way' anyway...?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "(...were my powers interfering with the spirit's somehow? No, it can't be...)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Hm? Didja say something, GF?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "nervous-smile",
+			"text": "N-no no, I didn't say anything."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Let's just go home. The spirit's probably been put to rest like Dad said it would be."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Hm... alright then."
+		}
+	]
+}

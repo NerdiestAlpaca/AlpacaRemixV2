@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "Y'know, maybe this is pretty fun.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mom",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "See?! I told you!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "reunion",
+			"text": "One more song? Make it real good!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "nervous-smile",
+			"text": "*sigh* Oh, BF..."
+		}
+	]
+}
